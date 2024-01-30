@@ -16,7 +16,7 @@ This project is a responsive website developed using HTML and CSS. The goal of t
 
    -   You can start the project simply by opening the `index.html` file in any browser or using the extension of your IDE to launch a local server for development
 
-    Technology Stack:
+## Technology Stack:
 
 ---
 
