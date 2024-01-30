@@ -18,6 +18,4 @@ This project is a responsive website developed using HTML and CSS. The goal of t
 
 ## Technology Stack:
 
----
-
 - Sass + PostCSS
